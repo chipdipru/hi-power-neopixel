@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name NeoP_6W-rescue)(type Legacy)(uri ${KIPRJMOD}/NeoP_6W-rescue.lib)(options "")(descr ""))
+  (lib (name NeoP_1x3-rescue)(type Legacy)(uri ${KIPRJMOD}/NeoP_1x3-rescue.lib)(options "")(descr ""))
+)
